@@ -1,0 +1,40 @@
+html {
+  font-size: 1em;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
+  padding: 1em;
+  background-color: #FFFFDD;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 1.602em;
+}
+
+h2 {
+  font-size: 1.424em;
+}
+
+h3 {
+  font-size: 1.266em;
+}
+
+a,
+a:link {
+  color: #4832FF;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #9084FF;
+}
